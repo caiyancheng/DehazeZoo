@@ -29,11 +29,14 @@ Updated by [Xiang Chen](https://cxtalk.github.io/).
 * Middlebury [[paper](http://www.cs.middlebury.edu/~schar/papers/datasets-gcpr2014.pdf)][[dataset](http://vision.middlebury.edu/stereo/data/scenes2014/)]
 * 3DRealisticScene [[paper](https://arxiv.org/abs/2004.08554)][[dataset](https://github.com/liruoteng/3DRealisticSceneDehaze)]
 * NYU Depth Dataset V2 [[paper](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf)][[dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)]
-* 4K-Dehazing Data [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf)][[dataset](https://pan.baidu.com/s/1kx1oas4HMDIDUzmYN6Cwuw)](Extraction code：7x3l)
-* REVIDE_indoor [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_To_Restore_Hazy_Video_A_New_Real-World_Dataset_and_CVPR_2021_paper.pdf)][[dataset](https://drive.google.com/file/d/1MYaVMUtcfqXeZpnbsfoJ2JBcpZUUlXGg/view)]
+* 4K-Dehazing Data [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf)][[dataset](https://github.com/zzr-idam/4KDehazing)]
+* REVIDE [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_To_Restore_Hazy_Video_A_New_Real-World_Dataset_and_CVPR_2021_paper.pdf)][[dataset](https://drive.google.com/file/d/1MYaVMUtcfqXeZpnbsfoJ2JBcpZUUlXGg/view)]
 
 ### 3.2 Papers
 --------------
+### 2022
+* Hong et al, Uncertainty-Driven Dehazing Network. (AAAI) [paper][code]
+
 ### 2021
 * Li et al, DehazeFlow：Multi-scale Conditional Flow Network for Single Image Dehazing. (ACMMM) [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475432?casa_token=cMfqEJPnRlEAAAAA:ZRKciLZRcFAhUQU6qdqt9N_87QOf5IfF70vjxR4aEOHoZnO7a6Vx78sNZgbAhIKsuQEpOvYgBAlq-Q)][code]
 * Chang et al, DAMix: Density-Aware Data Augmentation for Unsupervised Domain Adaptation on Single Image Dehazing. [[paper](https://arxiv.org/abs/2109.12544)][code]
